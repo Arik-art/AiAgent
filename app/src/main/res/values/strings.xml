@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AiAgent</string>
+    <string name="accessibility_desc">Служба для управления интерфейсом телефона с помощью ИИ.</string>
+</resources>
